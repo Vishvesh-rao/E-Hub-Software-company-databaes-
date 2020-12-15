@@ -1,7 +1,7 @@
 # E-Hub-Software-company-database
 An implemetation of a software company database and with added functionalities. Backend implemented in sql and frontend created with java swing using JDBC to connect backend to frontend
 
-## Usage Instructions
+## Usage Instructions [for linux machines]
  Clone the repository copy the src/ folder to your local machine and add the sql dump to your databse
 
 ## Steps to recover db from sql dump
