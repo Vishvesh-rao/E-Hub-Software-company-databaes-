@@ -6,7 +6,7 @@ An implemetation of a software company database and with added functionalities. 
 
 ## Steps to recover db from sql dump
 
-To restore a MySQL backup, enter:
+To recover db from a MySQL dump, enter:
 
 `mysql -u [user] -p [database_name] < [filename].sql`
 
