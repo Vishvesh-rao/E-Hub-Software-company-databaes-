@@ -15,4 +15,4 @@ Make sure to include `[database_name]` and `[filename]` in the path.
 It’s likely that on the host machine, `[database_name]` can be in a root directory, so you may not need to add the path. Make sure that you specify the exact path for the dump file you’re restoring, including server name (if needed).
 
  
- | link to [Project Documentation](https://drive.google.com/file/d/16NU0UlJ2TBeH0xzugkXzs-3hcCh0vjHW/view)
+link to [Project Documentation](https://drive.google.com/file/d/16NU0UlJ2TBeH0xzugkXzs-3hcCh0vjHW/view)
