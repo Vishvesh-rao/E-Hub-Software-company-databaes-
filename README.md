@@ -2,7 +2,7 @@
 An implemetation of a software company database and with added functionalities. Backend implemented in sql and frontend created with java swing using JDBC to connect backend to frontend
 
 
-link to [Project Documentation](https://drive.google.com/file/d/16NU0UlJ2TBeH0xzugkXzs-3hcCh0vjHW/view)
+link to [Project Documentation](https://drive.google.com/file/d/1CJerirHTqw2HPQ1wP8521Y9Gay244b9f/view?usp=sharing)
 
 ## Usage Instructions [for linux machines]
  Clone the repository copy the src/ folder to your local machine and add the sql dump to your databse
